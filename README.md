@@ -4,6 +4,25 @@
 
 <br>
 
+## Predicting the prevalence of soil transmitted helminth
+
+Project Host: The World Health Organization (WHO)
+
+People:
+* greyhypotheses: Project owner
+* Antonio Montresor: World Health Organization supervisor
+* Dr. Emanuele Giorgi: [CHICAS](https://chicas.lancaster-university.uk) / Lancaster Medical School supervisor
+
+Centre for Health Informatics, Computing, and Statistics
+
+<br>
+<br>
+
+### Background
+
+
+<br>
+<br>
 
 ### Project Aim
 
@@ -25,7 +44,18 @@
 <br>
 <br>
 
-### Approval Process
+### Timeline
+
+
+<br>
+<br>
+
+
+### 1. Deliverables
+
+* 
+* Prediction model
+* Manuscript
 
 The focus herein is timely feedback
 
@@ -44,6 +74,14 @@ Per each piece of work delivered
 
 <br>
 <br>
+
+
+### 2. Project Tasks
+
+Deliverable | Task | Description
+:--- | :--- | :---
+
+
 
 
 ### 3. Out of Scope
@@ -81,9 +119,12 @@ Deadlines | Masters Thesis: 9 September 2022, Poster Session: 16 September 2022
 
 #### Budget Constraints
 
-The project has no budget, i.e., no budget/payment for personnel or computational resources used.
+The project has no budget, i.e., no budget/payment for personnel or computational resources used; the student bears the project's 
+inherent costs.
 
 #### Quality Constraints
+
+The 
 
 #### Equipment Constraints
 
