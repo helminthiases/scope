@@ -73,10 +73,20 @@ Project end date | 9 September 2022
 Deadlines | Masters Thesis: 9 September 2022, Poster Session: 16 September 2022
 
 
-Time Constraints
+#### Time Constraints
 
 * The final week of the masters modules overlaps with the first week of the masters project, therefore only a third of the week 
   ending 10 June 2022 shall be spent on the masters project.
 
 
-Budget Constraints
+#### Budget Constraints
+
+The project has no budget, i.e., no budget/payment for personnel or computational resources used.
+
+#### Quality Constraints
+
+#### Equipment Constraints
+
+No equipment has been provided for this project.  The project's tasks will be, are, conducted via a personal computer.  However, it 
+is quite probable that the computer will stop working any time soon; the computer is quite old, and in recent times bits & pieces 
+have stopped working.  Hence, access to a fall-back laptop is critical.
