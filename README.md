@@ -7,13 +7,17 @@
 
 ## Project Aim
 
-> Develop a STH prevalence prediction model via prognostic (a) geospatial, (b) demographic, and 
-> (c) WASH (water, sanitation, and hygiene) factors.
+> Develop a STH (Soil Transmitted Helminth) prevalence prediction model via **prognostic** (a) geospatial, (b) demographic, and 
+> (c) WASH (water, sanitation, and hygiene) **factors**.
 
 
 ## Project Objectives
 
-> Determine whether site level sanitation is STH prevalence prognostic factor
+> * Determine the geospatial, demographic, and WASH prognostic factors of STH prevalence.
+> * Specifically determine whether <br>
+    &diams; site level sanitation <br>
+    &diams; population density <br>
+>   are prognostic factors of STH prevalence
 
 
 ## Approval Process
