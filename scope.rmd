@@ -130,11 +130,9 @@ direct field scientists to survey areas.  In the absence of systematic/strategic
 
 Hence, this project aims to develop a model that predicts the STH prevalence of an area, without depending on past or present field prevalence values.  Instead, the model's independent variables will be based on domain expert understandings, recommendations, of the geospatial, demographic, and WASH (water, sanitation, and hygiene) variables that influence the transmission of STH.
 
-\vspace{15pt}
+\vspace{10pt}
 
-\textcolor{darkgrey}{\textbf{Project Host \& Core Team}}
-
-The project host is the World Health Organization (WHO).  Ojo, C is the postgraduate student, i.e., the project lead.  Professor Antonio Montresor is the World Health Organization supervisor.  Finally, Dr. Emanuele Giorgi of [Centre for Health Informatics, Computing, and Statistics](https://chicas.lancaster-university.uk) / Lancaster Medical School is the university supervisor.
+\textcolor{darkgrey}{\textbf{Project host and core team}}: The project host is the World Health Organization (WHO).  Ojo, C is the postgraduate student, i.e., the project lead.  Professor Antonio Montresor is the World Health Organization supervisor.  Finally, Dr. Emanuele Giorgi of [Centre for Health Informatics, Computing, and Statistics](https://chicas.lancaster-university.uk) / Lancaster Medical School is the university supervisor.
 
 \vspace{25pt}
 
