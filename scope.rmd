@@ -1,5 +1,6 @@
 ---
-title: Predicting the prevalence of soil transmitted helminth (Project scope)
+title: Predicting the Prevalence of Soil Transmitted Helminths
+subtitle: PROJECT SCOPE
 fontsize: 10pt
 author: Ojo, C
 bibliography: bibliography/bibliography.bib
@@ -111,20 +112,25 @@ library(equatiomatic)
 
 
 
-Soil transmitted helminths (STH) are parasitic intestinal worms that cause intestinal nematode infections such as ascariasis, trichuriasis, and hookworm disease.
+Soil transmitted helminths (STH) are parasitic intestinal worms that cause intestinal nematode infections such as ascariasis, trichuriasis, and hookworm disease.  According to the [$2017$ global burden of disease metrics](https://www.thelancet.com/journals/lancet/issue/vol392no10159/PIIS0140-6736(18)X0048-8), by The Lancet, soil transmitted helminths infections are
 
-According to the latest neglected tropical disease (NTD) global health metrics, by The Lancet, soil transmitted
-helminths infections are
+\vspace{10pt}
 
 * The second most burdensome [@Kyu2018], after dengue: The 2017 all-age global burden level is 1920k (1200k to 2980k) disability adjusted life years
 * The most prevalent [@James2018]
 
-Hence, STH infections are a focus of the World Health Organization (WHO).  Alas, STH infection prevention, control, and
-elimination activities depend on knowledge of prevalence, which are rather expensive to acquire.
+\vspace{10pt}
+
+Therefore, STH infections are a focus of the World Health Organization (WHO).  Soil transmitted helminths prevention, control, and
+elimination activities depend on knowledge of prevalence [@Montresor2011].  These prevalence metrics depend on field
+surveys, which are rather expensive to conduct. They are especially expensive when there are no measures to systematically/strategically
+direct field scientists to survey areas.  In the absence of systematic/strategic direction, the field scientists have to survey as wide an area as possible, probably subject to constraints such as finances, accessibility, etc.
+
+\vspace{10pt}
+
+Hence, this project aims to develop a model that predicts the STH prevalence of an area, without depending on past or present field prevalence values.  Instead, the model's independent variables will be based on domain expert understandings, recommendations, of the geospatial, demographic, and WASH (water, sanitation, and hygiene) variables that influence the transmission of STH.
 
 \vspace{35pt}
-
-
 
 
 # Project Aim
@@ -140,10 +146,7 @@ Hence, the project's objectives are to
 
 * Investigate geospatial, demographic, and WASH prognostic factors of STH prevalence.
 
-* Specifically determine whether
-  * site level sanitation
-  * population density
-  are prognostic factors of STH prevalence
+* Specifically determine whether (a) site level sanitation, and (b) population density -- are prognostic factors of STH prevalence.
 
 * Develop a geo-statistical STH prediction model.
 
@@ -152,20 +155,11 @@ Hence, the project's objectives are to
 
 The project will rely on the
 
-* Soil transmitted helminths' data sets of [ESPEN](https://espen.afro.who.int/) (Expanded Special Project for Elimination of Neglected Tropical Diseases).  Specifically, the ascariasis, hookworm infection, and trichuriasis examinations and cases data per site.
+* The soil transmitted helminths' data sets of [ESPEN](https://espen.afro.who.int/) (Expanded Special Project for Elimination of Neglected Tropical Diseases) -- **for** ascariasis, hookworm infection, and trichuriasis examinations and cases data per site.
 
-* The estimated WASH variables of [IHME](https://www.healthdata.org/research-article/mapping-geographic-inequalities-access-drinking-water-and-sanitation-facilities-low) (Institute for Health Metrics and Evaluation) - for determining site level WASH variables values. The [ESPEN estimates](https://espen.afro.who.int/diseases/wash), which depend on the IHME methodology, are implementation level estimates.
+* The estimated WASH variables of [IHME](https://www.healthdata.org/research-article/mapping-geographic-inequalities-access-drinking-water-and-sanitation-facilities-low) (Institute for Health Metrics and Evaluation) -- **for** determining site level WASH variables values. The [ESPEN estimates](https://espen.afro.who.int/diseases/wash), which depend on the IHME methodology, are implementation level estimates.
 
-* The [National Oceanic & Atmospheric Administration (NOAA)](https://www.ncdc.noaa.gov/cdo-web/datasets), [WorldClim](https://www.worldclim.org/data/index.html), and [DIVA GIS](https://www.diva-gis.org/Data) for historical geospatial and/or climatic variables values.
-
-
-
-# Timeline
-
-20 June 2022 - 8 July 2022: Addressing site level records identification issues (refer to the quality constraints section further below).  The derivation of site level variable values; WASH and geospatial/climatic variables values.  Data mapping, i.e.,
-12 July 2022 - 30 July 2022: Exploratory data analysis.  Exploration of Bayesian
-1 August 2022 - 21 August 2022: Final models development - 2 models. Model validation.  Model testing.
-22 August 2022 - 6 September 2022: Manuscript writing.
+* The [National Oceanic & Atmospheric Administration (NOAA)](https://www.ncdc.noaa.gov/cdo-web/datasets), [WorldClim](https://www.worldclim.org/data/index.html), and [DIVA GIS](https://www.diva-gis.org/Data) -- **for** historical geospatial and/or climatic variables values.
 
 
 
@@ -193,35 +187,68 @@ shall provide a written summary/consolidation of the WHO stakeholders' feedback.
 
 
 
+# Timeline
+
+\small
+\begin{center}
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{l p{0.5\linewidth}l}\footnotesize
+$\;$ & Notes \\ \hline
+$2022/06/20$ - $2022/07/08$ & Addressing site level records identification issues (refer to the quality constraints section further below).  The derivation of site level variable values; WASH and geospatial/climatic variables values.  Data mapping, i.e., \\
+$2022/07/12$ - $2022/07/30$ & Exploratory data analysis.{\par}Exploration of Bayesian, and otherwise, geospatial binomial logistic models; binomial because prevalce values are proportions. \\
+$2022/08/01$ - $2022/08/21$ & Final models development; focus on two models.{\par}Model validation.{\par}Model testing. \\
+$2022/08/22$ - $2022/09/06$ & Manuscript writing. \\
+$2022/09/08$ - $2022/09/11$ & Review model repository, model card, and data sheet. \\
+$2022/09/11$ - $2022/09/15$ & Poster preparation. \\
+\end{tabular}
+\end{center}
+\normalsize
+
+
+
 # Out of Scope
 
-* Prediction of STH Prevalence for countries outwith the continent of Africa <br>
-Because the ESPEN data project focuses on African countries only, model development will be (a) via the data of one or
-more African countries, and (b) for one or more African countries only.
+The prediction of STH Prevalence for countries outwith the continent of Africa because the ESPEN data project focuses on African countries only, i.e., it only has the data of a set of African countries.  Consequently, model development will be via the data of one or more African countries.  Additionally, model validation, internal & external, will be via ESPEN countries only.
 
 
 # Project Assumptions
 
+The project makes a few key assumptions
+
 * The soil transmitted helminth parasites of concern are roundworms (Ascaris lumbricoides), hookworms
 (Ancylostoma duodenale, Necator americanus), and whipworms (Trichuris trichiura); which cause
-ascariasis, hookworm infection, and trichuriasis, respectively.
+ascariasis, hookworm infection, and trichuriasis.
+
+* WHO is interested in **site level prevalence predictions**.
+
 * The historical site level positive cases of ascariasis, hookworm infection, and trichuriasis, detailed by ESPEN, are dependable.
+
 * Ascariasis, trichuriasis, and hookworm infection examinations, per site, are conducted within the same sample population of a site.
+
+* Per site, the prevalence value of any soil transmitted helminth is via the prevalence formula of Silva & Hall [@Silva2010], which depends on the prevalence of ascariasis, trichuriasis, and hookworm disease.
 
 
 # Project Constraints
 
-Variable | Comment
-:--- | :---
-Project start date | 6 June 2022
-Project end date | 9 September 2022
-Deadlines | Masters Thesis: 9 September 2022<br> Poster Session: 16 September 2022<br> Model Repository: 12 September 2022<br> Data Sheet & Model Card: 12 September 2022
+\small
+
+\renewcommand{\arraystretch}{1.25}
+\begin{tabular}{l p{0.5\linewidth}l}\footnotesize
+  $\;$ & description \\ \hline
+  Project start date & 6 June 2022 \\
+  Project end date & 9 September 2022 \\
+  Deadlines & Masters Thesis: 9 September 2022{\par}Poster Session: 16 September 2022{\par}Model Repository: 12 September 2022{\par}Data Sheet \& Model Card: 12 September 2022 \\
+\end{tabular}
+
+\normalsize
 
 
 ## Time Constraints
 
 * The final week of the masters modules overlaps with the first week of the masters project, therefore only a third of the week
 ending 10 June 2022 shall be spent on the masters project.
+
+* Future planning may occasionally occur during week days, the time will be recovered during the evenings and/or weekends.
 
 
 ## Budget Constraints
