@@ -116,8 +116,8 @@ Soil transmitted helminths (STH) are parasitic intestinal worms that cause intes
 
 \vspace{10pt}
 
-* The second most burdensome [@Kyu2018], after dengue: The 2017 all-age global burden level is 1920k (1200k to 2980k) disability adjusted life years
-* The most prevalent [@James2018]
+* The second most burdensome [@Kyu2018], after dengue: The 2017 all-age global burden level is 1920k (1200k to 2980k) disability adjusted life years.
+* The most prevalent [@James2018].
 
 \vspace{10pt}
 
@@ -130,8 +130,13 @@ direct field scientists to survey areas.  In the absence of systematic/strategic
 
 Hence, this project aims to develop a model that predicts the STH prevalence of an area, without depending on past or present field prevalence values.  Instead, the model's independent variables will be based on domain expert understandings, recommendations, of the geospatial, demographic, and WASH (water, sanitation, and hygiene) variables that influence the transmission of STH.
 
-\vspace{35pt}
+\vspace{15pt}
 
+\textcolor{darkgrey}{\textbf{Project Host \& Core Team}}
+
+The project host is the World Health Organization (WHO).  Ojo, C is the postgraduate student, i.e., the project lead.  Professor Antonio Montresor is the World Health Organization supervisor.  Finally, Dr. Emanuele Giorgi of [Centre for Health Informatics, Computing, and Statistics](https://chicas.lancaster-university.uk) / Lancaster Medical School is the university supervisor.
+
+\vspace{25pt}
 
 # Project Aim
 
@@ -271,7 +276,7 @@ is quite probable that the computer will stop working any time soon; the compute
 have stopped working.  Hence, access to a fall-back laptop is critical.
 
 
-
 \clearpage
+
 
 # References
