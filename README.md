@@ -146,13 +146,24 @@ The key assumptions are
 
 ### Project Constraints
 
-\renewcommand{\arraystretch}{1.25}
-\begin{tabular}{l p{0.5\linewidth}l}\footnotesize
-$\;$ & description \\ \hline
-Project start date & 6 June 2022 \\
-Project end date & 9 September 2022 \\
-Deadlines & Masters Thesis: 9 September 2022{\par}Poster Session: 16 September 2022{\par}Model Repository: 12 September 2022{\par}Data Sheet: 12 September 2022 \\
-\end{tabular}
+<table style="width: 65%; font-size: 65%; text-align: left;">
+    <colgroup>
+        <col span="1" style="width: 2.5%;">
+        <col span="1" style="width: 60%;">
+    </colgroup>
+    <tr>
+        <td>Project start date</td>
+        <td>6 June 2022</td>
+    </tr>
+    <tr>
+        <td>Project end date</td>
+        <td>9 September 2022</td>
+    </tr>
+    <tr>
+        <td>Deadlines</td>
+        <td>Masters Thesis: 9 September 2022<br>Poster Session: 16 September 2022<br>Model Repository: 12 September 2022<br>Data Sheet: 12 September 2022</td>
+    </tr>
+</table>
 
 
 <br>
