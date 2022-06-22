@@ -50,6 +50,37 @@ Hence, this project aims to develop a model that predicts the STH prevalence of 
 
 
 <br>
+
+<table style="width: 65%; font-size: 65%; text-align: left;">
+    <colgroup>
+        <col span="1" style="width: 2.5%;">
+        <col span="1" style="width: 60%;">
+    </colgroup>
+    <tr>
+        <td><span id="@Montresor2011">1</span>.</td>
+        <td>A. Montresor, Helminth control in school-age children. (2011). https://www.who.int/publications/i/item/9789241548267.</td>
+    </tr>
+    <tr>
+        <td><span id="2">2</span>.</td>
+        <td>N. de Silva & A. Hall, Using the prevalence of individual species of intestinal nematode worms to estimate the combined prevalence of any species. PLOS Neglected Tropical Diseases, 4 (2010) 1–7. https://doi.org/10.1371/journal.pntd.0000655.</td>
+    </tr>
+    <tr>
+        <td><span id="@James2018">3</span>.</td>
+        <td>G. B. of Diseases Collaborators, Global, regional, and national incidence, prevalence, and years lived with disability for 354 diseases and injuries for 195 countries and territories, 1990-2017: A systematic analysis for the global burden of disease study 2017. The Lancet, 392 (2018) 1789–1858. https://doi.org/10.1016/S0140-6736(18)32279-7.</td>
+    </tr>
+    <tr>
+        <td><span id="@Kyu2018">4</span></td>
+        <td>G. B. of Diseases Collaborators, Global, regional, and national disability-adjusted life-years (DALYs) for 359 diseases and injuries and healthy life expectancy (HALE) for 195 countries and territories, 1990–2017: A systematic analysis for the global burden of disease study 2017.</td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+<br>
 <br>
 
 <br>
