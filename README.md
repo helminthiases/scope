@@ -178,6 +178,7 @@ Key assumptions:
     </tr>
 </table>
 
+<br>
 
 #### Time Constraints
 
@@ -186,6 +187,7 @@ Key assumptions:
 
 * Future planning may occasionally occur during week days, the time will be recovered during the evenings and/or weekends.
 
+<span style="line-height: 10pt">&nbsp;</span>
 
 #### Budget Constraints
 
