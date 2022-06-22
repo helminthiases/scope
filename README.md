@@ -191,7 +191,6 @@ Key assumptions:
 
 The project has no budget, i.e., no budget/payment for personnel or computational resources used; the student bears the cost of conducting the project.
 
-<br>
 
 #### Quality Constraints
 
