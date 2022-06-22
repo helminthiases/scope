@@ -14,13 +14,16 @@ Soil transmitted helminths (STH) are parasitic intestinal worms that cause intes
 * The most prevalent [<a href="#@James2018">3</a>].
 
 Therefore, STH infections are a focus of the World Health Organization (WHO).  Soil transmitted helminths prevention, control, and
-elimination activities depend on knowledge of prevalence [<a href="#@Montresor2011">1</a>].  These prevalence metrics depend on field
+elimination activities depend on knowledge of prevalence [<a href="#@Montresor2011">1</a>].  Prevalence metrics depend on field
 surveys, which are rather expensive to conduct. They are especially expensive when there are no measures to systematically/strategically
-direct field scientists to survey areas.  In the absence of systematic/strategic direction, the field scientists have to survey as wide an area as possible, probably subject to constraints such as finances, accessibility, etc.
+direct field scientists to survey areas.  In the absence of systematic/strategic direction, the field scientists have to survey as wide an area as 
+possible, albeit subject to financial, accessibility, etc., constraints. 
 
 <br>
 
-Hence, this project aims to develop a model that predicts the STH prevalence of an area, without depending on past or present field prevalence values.  Instead, the model's independent variables will be based on domain expert understandings, recommendations, of the geospatial, demographic, and WASH (water, sanitation, and hygiene) variables that influence the transmission of STH.
+Hence, this project's focus is STH prevalence prediction. A key STH prevalence hypothesis, of domain experts, is that WASH (water, sanitation, and hygiene) 
+variables might be critical prognostic factors.  Therefore, the project will focus on understanding the association between STH
+prevalence and WASH variables, and investigate whether they improve STH prevalence prediction.
 
 <br>
 <br>
