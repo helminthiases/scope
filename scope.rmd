@@ -1,5 +1,5 @@
 ---
-title: Predicting the Prevalence of Soil Transmitted Helminths
+title: The Soil Transmitted Helminths Project
 subtitle: PROJECT SCOPE
 fontsize: 10pt
 author: Ojo, C
@@ -114,32 +114,40 @@ library(equatiomatic)
 
 Soil transmitted helminths (STH) are parasitic intestinal worms that cause intestinal nematode infections such as ascariasis, trichuriasis, and hookworm disease.  According to the [$2017$ global burden of disease metrics](https://www.thelancet.com/journals/lancet/issue/vol392no10159/PIIS0140-6736(18)X0048-8), by The Lancet, soil transmitted helminths infections are
 
-\vspace{10pt}
+
+\vspace{5pt}
 
 * The second most burdensome [@Kyu2018], after dengue: The 2017 all-age global burden level is 1920k (1200k to 2980k) disability adjusted life years.
+
 * The most prevalent [@James2018].
 
-\vspace{10pt}
+\vspace{5pt}
 
 Therefore, STH infections are a focus of the World Health Organization (WHO).  Soil transmitted helminths prevention, control, and
-elimination activities depend on knowledge of prevalence [@Montresor2011].  These prevalence metrics depend on field
+elimination activities depend on knowledge of prevalence [@Montresor2011].  Prevalence metrics depend on field
 surveys, which are rather expensive to conduct. They are especially expensive when there are no measures to systematically/strategically
-direct field scientists to survey areas.  In the absence of systematic/strategic direction, the field scientists have to survey as wide an area as possible, probably subject to constraints such as finances, accessibility, etc.
+direct field scientists to survey areas.  In the absence of systematic/strategic direction, the field scientists have to survey as wide an area as
+possible, albeit subject to financial, accessibility, etc., constraints.
+
 
 \vspace{10pt}
 
-Hence, this project aims to develop a model that predicts the STH prevalence of an area, without depending on past or present field prevalence values.  Instead, the model's independent variables will be based on domain expert understandings, recommendations, of the geospatial, demographic, and WASH (water, sanitation, and hygiene) variables that influence the transmission of STH.
+Hence, this project's focus is STH prevalence prediction. A key STH prevalence hypothesis, of domain experts, is that WASH (water, sanitation, and hygiene)
+variables might be critical prognostic factors.  Therefore, the project will focus on understanding the association between STH
+prevalence and WASH variables, and investigate whether they improve STH prevalence prediction.
 
 \vspace{10pt}
 
-\textcolor{darkgrey}{\textbf{Project host and core team}}: The project host is the World Health Organization (WHO).  Ojo, C is the postgraduate student, i.e., the project lead.  Professor Antonio Montresor is the World Health Organization supervisor.  Finally, Dr. Emanuele Giorgi of [Centre for Health Informatics, Computing, and Statistics](https://chicas.lancaster-university.uk) / Lancaster Medical School is the university supervisor.
+The project host is the World Health Organization (WHO).  Ojo, C is the postgraduate student, i.e., the
+project lead.  Professor Antonio Montresor is the World Health Organization supervisor.  Finally, Dr. Emanuele
+Giorgi of [Centre for Health Informatics, Computing, and Statistics](https://chicas.lancaster-university.uk) / Lancaster Medical School
+is the university supervisor.
 
 \vspace{25pt}
 
 # Project Aim
 
-The development a STH (Soil Transmitted Helminth) prevalence prediction model via **(a)** geospatial, **(b)** demographic, and
-**(c)** WASH (water, sanitation, and hygiene) **prognostic factors**.
+Understanding the association between STH (Soil Transmitted Helminth) prevalence and WASH (water, sanitation, and hygiene) variables, and their effect, or otherwise, on STH prevalence prediction.
 
 
 
@@ -147,11 +155,10 @@ The development a STH (Soil Transmitted Helminth) prevalence prediction model vi
 
 Hence, the project's objectives are to
 
-* Investigate geospatial, demographic, and WASH prognostic factors of STH prevalence.
+* Understand the association between STH (Soil Transmitted Helminth) prevalence and WASH (water, sanitation, and hygiene) variables
 
-* Specifically determine whether (a) site level sanitation, and (b) population density -- are prognostic factors of STH prevalence.
+* Determine the extent to which WASH variables aid STH prevalence prediction via geostatistical models.
 
-* Develop a geo-statistical STH prediction model.
 
 
 # Project Data
@@ -173,20 +180,16 @@ The deliverables are
 * STH Prevalence Prediction Model via GitHub
 * Thesis Manuscript
 * Datasheet [@Gebru2018]
-* Model Card [@Mitchell2018]
 
 <br>
 
-## Approval of deliveries
+## Feedback & Approval of deliveries
 
-Per each piece of work delivered
+Professor Montresor shall
 
-* Antonio Montresor shall provide written feedback.
+* Address, via email, soil transmitted helminths questions.
 
-* If more than one World Health Organization (WHO) stakeholder might provide feedback, then Antonio Montresor
-shall provide a written summary/consolidation of the WHO stakeholders' feedback.
-
-* Antonio Montresor shall ensure that all WHO stakeholders that should provide feedback, do.
+* Provide feedback for each set of investigations/results that are summarised & delivered.
 
 <br>
 
@@ -202,7 +205,7 @@ occur on Friday 1 July 2022; fortnightly thereafter.
 \begin{center}
 \renewcommand{\arraystretch}{1.5}
 \begin{tabular}{l p{0.5\linewidth}l}\footnotesize
-$\;$ & Notes \\ \hline
+$\;$ & Item \\ \hline
 $2022/06/20$ - $2022/07/08$ & Addressing site level records identification issues (refer to the quality constraints section further below).  The derivation of site level variable values; WASH and geospatial/climatic variables values.  Data mapping, i.e., \\
 $2022/07/12$ - $2022/07/30$ & Exploratory data analysis.{\par}Exploration of Bayesian, and otherwise, geospatial binomial logistic models; binomial because prevalce values are proportions. \\
 $2022/08/01$ - $2022/08/21$ & Final models development; focus on two models.{\par}Model validation.{\par}Model testing. \\
@@ -222,19 +225,16 @@ The prediction of STH Prevalence for countries outwith the continent of Africa b
 
 # Project Assumptions
 
-The project makes a few key assumptions
+Key assumptions:
 
-* The soil transmitted helminth parasites of concern are roundworms (Ascaris lumbricoides), hookworms
-(Ancylostoma duodenale, Necator americanus), and whipworms (Trichuris trichiura); which cause
-ascariasis, hookworm infection, and trichuriasis.
+* The soil transmitted helminth parasites of concern are roundworms (Ascaris lumbricoides), hookworms (Ancylostoma duodenale, Necator americanus), and whipworms (Trichuris trichiura); which cause ascariasis, hookworm infection, and trichuriasis [@Montresor2011].
 
-* WHO is interested in **site level prevalence predictions**.
+* In terms of data granularity, the focus of this project is **site level prevalence**, and hence site level measures.
 
-* The historical site level positive cases of ascariasis, hookworm infection, and trichuriasis, detailed by ESPEN, are dependable.
+* The historical site level positive cases of ascariasis, hookworm infection, and trichuriasis, detailed by [ESPEN](https://espen.afro.who.int/), are dependable.  Additionally, the ascariasis, trichuriasis, and hookworm infection examinations, per site, are conducted within the same sample population of a site.
 
-* Ascariasis, trichuriasis, and hookworm infection examinations, per site, are conducted within the same sample population of a site.
+* The prevalence value of any soil transmitted helminth is via the prevalence formula of Silva & Hall [@Silva2010], which depends on the prevalence of ascariasis, trichuriasis, and hookworm disease at a location.
 
-* Per site, the prevalence value of any soil transmitted helminth is via the prevalence formula of Silva & Hall [@Silva2010], which depends on the prevalence of ascariasis, trichuriasis, and hookworm disease.
 
 
 # Project Constraints
@@ -243,10 +243,10 @@ ascariasis, hookworm infection, and trichuriasis.
 
 \renewcommand{\arraystretch}{1.25}
 \begin{tabular}{l p{0.5\linewidth}l}\footnotesize
-  $\;$ & description \\ \hline
+  $\;$ & Date \\ \hline
   Project start date & 6 June 2022 \\
   Project end date & 9 September 2022 \\
-  Deadlines & Masters Thesis: 9 September 2022{\par}Poster Session: 16 September 2022{\par}Model Repository: 12 September 2022{\par}Data Sheet \& Model Card: 12 September 2022 \\
+  Deadlines & Masters Thesis: 9 September 2022{\par}Poster Session: 16 September 2022{\par}Model Repository: 12 September 2022{\par}Data Sheet: 12 September 2022 \\
 \end{tabular}
 
 \normalsize
