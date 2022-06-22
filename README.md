@@ -66,6 +66,93 @@ The project will rely on the
 <br>
 <br>
 
+### Deliverables
+
+The deliverables are
+
+* STH Prevalence Prediction Model via GitHub
+* Thesis Manuscript
+* Datasheet [<a href="#@Gebru2018">1</a>]
+
+<br>
+
+#### Feedback & Approval of deliveries
+
+Professor Montresor shall 
+
+* Address, via email, soil transmitted helminths questions.
+
+* Provide feedback for each set of investigations/results that are summarised & delivered.
+
+
+<br>
+
+#### Brief Progress Updates
+
+Fortnightly.  This is apart from contacting supervisors for help, which can occur any time.  The next brief progress update will
+occur on Friday 1 July 2022; fortnightly thereafter.
+
+<br>
+<br>
+
+### Timeline
+
+\small
+\begin{center}
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{l p{0.5\linewidth}l}\footnotesize
+$\;$ & Notes \\ \hline
+$2022/06/20$ - $2022/07/08$ & Addressing site level records identification issues (refer to the quality constraints section further below).  The derivation of site level variable values; WASH and geospatial/climatic variables values.  Data mapping, i.e., \\
+$2022/07/12$ - $2022/07/30$ & Exploratory data analysis.{\par}Exploration of Bayesian, and otherwise, geospatial binomial logistic models; binomial because prevalce values are proportions. \\
+$2022/08/01$ - $2022/08/21$ & Final models development; focus on two models.{\par}Model validation.{\par}Model testing. \\
+$2022/08/22$ - $2022/09/06$ & Manuscript writing. \\
+$2022/09/08$ - $2022/09/11$ & Review model repository, model card, and data sheet. \\
+$2022/09/11$ - $2022/09/15$ & Poster preparation. \\
+\end{tabular}
+\end{center}
+\normalsize
+
+<br>
+<br>
+
+### Out of Scope
+
+The prediction of STH Prevalence for countries outwith the continent of Africa because the ESPEN data project focuses on African 
+countries only, i.e., it only has the data of a set of African countries.  Consequently, model development will be via the data of 
+one or more African countries.  Additionally, model validation, internal & external, will be via ESPEN countries only.
+
+<br>
+<br>
+
+### Project Assumptions
+
+The key assumptions are
+
+* The soil transmitted helminth parasites of concern are roundworms (Ascaris lumbricoides), hookworms
+  (Ancylostoma duodenale, Necator americanus), and whipworms (Trichuris trichiura); which cause
+  ascariasis, hookworm infection, and trichuriasis [<a href="#@Montresor2011">1</a>].
+
+* In terms of data granularity, the focus of this project is **site level prevalence**, and hence site level measures.
+
+* The historical site level positive cases of ascariasis, hookworm infection, and trichuriasis, detailed by [ESPEN](https://espen.afro.who.int/), are 
+  dependable.  Additionally, the ascariasis, trichuriasis, and hookworm infection examinations, per site, are conducted within the same sample 
+  population of a site.
+
+* The prevalence value of any soil transmitted helminth is via the prevalence formula of Silva & Hall [@Silva2010], which depends on the 
+  prevalence of ascariasis, trichuriasis, and hookworm disease at a location.
+
+
+### Project Constraints
+
+\renewcommand{\arraystretch}{1.25}
+\begin{tabular}{l p{0.5\linewidth}l}\footnotesize
+$\;$ & description \\ \hline
+Project start date & 6 June 2022 \\
+Project end date & 9 September 2022 \\
+Deadlines & Masters Thesis: 9 September 2022{\par}Poster Session: 16 September 2022{\par}Model Repository: 12 September 2022{\par}Data Sheet: 12 September 2022 \\
+\end{tabular}
+
+
 <br>
 <br>
 
