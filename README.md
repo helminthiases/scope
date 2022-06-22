@@ -97,6 +97,7 @@ occur on Friday 1 July 2022; fortnightly thereafter.
 
 ### Timeline
 
+\begin{table}
 \small
 \begin{center}
 \renewcommand{\arraystretch}{1.5}
@@ -111,6 +112,7 @@ $2022/09/11$ - $2022/09/15$ & Poster preparation. \\
 \end{tabular}
 \end{center}
 \normalsize
+\end{table}
 
 <br>
 <br>
