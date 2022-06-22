@@ -155,6 +155,38 @@ Key assumptions:
     </tr>
 </table>
 
+<br>
+
+#### Time Constraints
+
+* The final week of the masters modules overlaps with the first week of the masters project, therefore only a third of the week
+  ending 10 June 2022 shall be spent on the masters project.
+
+* Future planning may occasionally occur during week days, the time will be recovered during the evenings and/or weekends.
+
+<br>
+
+#### Budget Constraints
+
+The project has no budget, i.e., no budget/payment for personnel or computational resources used; the student bears the cost of conducting the project.
+
+<br>
+
+#### Quality Constraints
+
+The site level data of ESPEN has 3 core issues. Foremost, and per country, many records do not have a site level identification code.  Second, records that have the same coordinates, do not usually have the same site identification code.  Finally, records associated with the same site sometimes have slightly different coordinate values.  Prior to exploratory analysis & modelling, these discrepancies will have to be addressed, i.e.,
+
+* Each distinct site must have a unique site identifier and distinct coordinate values.
+* records associated with the same site must have the same unique site identifier & coordinate values.
+
+<br>
+
+#### Equipment Constraints
+
+No equipment has been provided for this project.  The project's tasks will be, are, conducted via a personal computer.  However, it
+is quite probable that the computer will stop working any time soon; the computer is quite old, and in recent times bits & pieces
+have stopped working.  Hence, access to a fall-back laptop is critical.
+
 
 <br>
 <br>
