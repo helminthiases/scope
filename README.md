@@ -97,22 +97,14 @@ occur on Friday 1 July 2022; fortnightly thereafter.
 
 ### Timeline
 
-\begin{table}
-\small
-\begin{center}
-\renewcommand{\arraystretch}{1.5}
-\begin{tabular}{l p{0.5\linewidth}l}\footnotesize
-$\;$ & Notes \\ \hline
-$2022/06/20$ - $2022/07/08$ & Addressing site level records identification issues (refer to the quality constraints section further below).  The derivation of site level variable values; WASH and geospatial/climatic variables values.  Data mapping, i.e., \\
-$2022/07/12$ - $2022/07/30$ & Exploratory data analysis.{\par}Exploration of Bayesian, and otherwise, geospatial binomial logistic models; binomial because prevalce values are proportions. \\
-$2022/08/01$ - $2022/08/21$ & Final models development; focus on two models.{\par}Model validation.{\par}Model testing. \\
-$2022/08/22$ - $2022/09/06$ & Manuscript writing. \\
-$2022/09/08$ - $2022/09/11$ & Review model repository, model card, and data sheet. \\
-$2022/09/11$ - $2022/09/15$ & Poster preparation. \\
-\end{tabular}
-\end{center}
-\normalsize
-\end{table}
+&nbsp; | Item 
+:--- | :---
+2022/06/20 - 2022/07/08 | Addressing site level records identification issues (refer to the quality constraints section further below).  The derivation of site level variable values; WASH and geospatial/climatic variables values. 
+2022/07/12 - 2022/07/30 | Exploratory data analysis.<br>Exploration of Bayesian, and otherwise, geospatial binomial logistic models; binomial because prevalence values are proportions.
+2022/08/01 - 2022/08/21 | Final modelling stage; two models at most.<br>Model validation.<br>Model testing.
+2022/08/22 - 2022/09/06 | Manuscript writing.
+2022/09/08 - 2022/09/11 | Finalise modelling & analysis repository and data sheet.
+2022/09/11 - 2022/09/15 | Poster preparation.
 
 <br>
 <br>
