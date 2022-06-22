@@ -143,13 +143,13 @@ one or more African countries.  Additionally, model validation, internal & exter
 
 Key assumptions:
 
-> * The soil transmitted helminth parasites of concern are roundworms (Ascaris lumbricoides), hookworms (Ancylostoma duodenale, Necator americanus), and whipworms (Trichuris trichiura); which cause ascariasis, hookworm infection, and trichuriasis [<a href="#@Montresor2011">1</a>].
->
-> * In terms of data granularity, the focus of this project is **site level prevalence**, and hence site level measures.
->
-> * The historical site level positive cases of ascariasis, hookworm infection, and trichuriasis, detailed by [ESPEN](https://espen.afro.who.int/), are dependable.  Additionally, the ascariasis, trichuriasis, and hookworm infection examinations, per site, are conducted within the same sample population of a site.
->
-> * The prevalence value of any soil transmitted helminth is via the prevalence formula of Silva & Hall [@Silva2010], which depends on the prevalence of ascariasis, trichuriasis, and hookworm disease at a location.
+* The soil transmitted helminth parasites of concern are roundworms (Ascaris lumbricoides), hookworms (Ancylostoma duodenale, Necator americanus), and whipworms (Trichuris trichiura); which cause ascariasis, hookworm infection, and trichuriasis [<a href="#@Montresor2011">1</a>].
+
+* In terms of data granularity, the focus of this project is **site level prevalence**, and hence site level measures.
+
+* The historical site level positive cases of ascariasis, hookworm infection, and trichuriasis, detailed by [ESPEN](https://espen.afro.who.int/), are dependable.  Additionally, the ascariasis, trichuriasis, and hookworm infection examinations, per site, are conducted within the same sample population of a site.
+
+* The prevalence value of any soil transmitted helminth is via the prevalence formula of Silva & Hall [<a href="#@Silva2010">2</a>], which depends on the prevalence of ascariasis, trichuriasis, and hookworm disease at a location.
 
 
 <br>
