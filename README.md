@@ -1,6 +1,6 @@
 <br>
 
-#### The Soil Transmitted Helminths Project: Project Scope
+#### The project scope of the soil transmitted helminths project
 
 <br>
 
@@ -105,7 +105,6 @@ The deliverables are
 Professor Montresor shall 
 
 * Address, via email, soil transmitted helminths questions.
-
 * Provide feedback for each set of investigations/results that are summarised & delivered.
 
 #### Brief Progress Updates
