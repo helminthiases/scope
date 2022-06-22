@@ -186,11 +186,11 @@ Key assumptions:
   ending 10 June 2022 shall be spent on the masters project.
 
 * Future planning may occasionally occur during week days, the time will be recovered during the evenings and/or weekends.
-<br>
 
 #### Budget Constraints
 
 The project has no budget, i.e., no budget/payment for personnel or computational resources used; the student bears the cost of conducting the project.
+
 <br>
 
 #### Quality Constraints
@@ -198,8 +198,8 @@ The project has no budget, i.e., no budget/payment for personnel or computationa
 The site level data of ESPEN has 3 core issues. Foremost, and per country, many records do not have a site level identification code.  Second, records that have the same coordinates, do not usually have the same site identification code.  Finally, records associated with the same site sometimes have slightly different coordinate values.  Prior to exploratory analysis & modelling, these discrepancies will have to be addressed, i.e.,
 
 * Each distinct site must have a unique site identifier and distinct coordinate values.
+
 * records associated with the same site must have the same unique site identifier & coordinate values.
-<br>
 
 #### Equipment Constraints
 
