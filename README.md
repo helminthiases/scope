@@ -96,8 +96,8 @@ The project will rely on the
 
 The deliverables are
 
-* STH Prevalence Prediction Model via GitHub
-* Thesis Manuscript
+* Geo-statistical STH prevalence modelling & analysis, via GitHub.
+* Thesis manuscript.
 * Datasheet [<a href="#@Gebru2018">1</a>]
 
 #### Feedback & Approval of deliveries
