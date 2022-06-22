@@ -1,6 +1,6 @@
 <br>
 
-**The Soil Transmitted Helminths Project: Project Scope**
+#### The Soil Transmitted Helminths Project: Project Scope
 
 <br>
 
