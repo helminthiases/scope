@@ -36,14 +36,12 @@ Hence, this project aims to develop a model that predicts the STH prevalence of 
 
 ## References
 
-&nbsp; | Details
-:--- | :---
-<div id="@Montresor2011">1</div> |  A. Montresor, Helminth control in school-age children. (2011). https://www.who.int/publications/i/item/9789241548267.
-<div id="2">2</div> | N. de Silva & A. Hall, Using the prevalence of individual species of intestinal nematode worms to estimate the combined prevalence of any species. PLOS Neglected Tropical Diseases, 4 (2010) 1–7. https://doi.org/10.1371/journal.pntd.0000655.
-<div id="@James2018">3</div> | G. B. of Diseases Collaborators, Global, regional, and national incidence, prevalence, and years lived with disability for 354 diseases and injuries for 195 countries and territories, 1990-2017: A systematic analysis for the global burden of disease study 2017. The Lancet, 392 (2018) 1789–1858. https://doi.org/10.1016/S0140-6736(18)32279-7.
-<div id="@Kyu2018">4</div> | G. B. of Diseases Collaborators, Global, regional, and national disability-adjusted life-years (DALYs) for 359 diseases and injuries and healthy life expectancy (HALE) for 195 countries and territories, 1990–2017: A systematic analysis for the global burden of disease study 2017.
-<div id="5">5</div> | M. Mitchell, S. Wu, A. Zaldivar, P. Barnes, L. Vasserman, B. Hutchinson, E. Spitzer, I. D. Raji, & T. Gebru, Model cards for model reporting. CoRR, abs/1810.03993 (2018). https://doi.org/10.48550/arXiv.1810.03993.
-<div id="6">6</div> | T. Gebru, J. Morgenstern, B. Vecchione, J. W. Vaughan, H. M. Wallach, H. D. III, & K. Crawford, Datasheets for datasets. CoRR, abs/1803.09010 (2018). https://doi.org/10.48550/arXiv.1803.09010.
+<div><span id="@Montresor2011">1</span> |  A. Montresor, Helminth control in school-age children. (2011). https://www.who.int/publications/i/item/9789241548267.</div>
+<div><span id="2">2</span> | N. de Silva & A. Hall, Using the prevalence of individual species of intestinal nematode worms to estimate the combined prevalence of any species. PLOS Neglected Tropical Diseases, 4 (2010) 1–7. https://doi.org/10.1371/journal.pntd.0000655.</div>
+<div><span id="@James2018">3</span> | G. B. of Diseases Collaborators, Global, regional, and national incidence, prevalence, and years lived with disability for 354 diseases and injuries for 195 countries and territories, 1990-2017: A systematic analysis for the global burden of disease study 2017. The Lancet, 392 (2018) 1789–1858. https://doi.org/10.1016/S0140-6736(18)32279-7.</div>
+<div><span id="@Kyu2018">4</span> | G. B. of Diseases Collaborators, Global, regional, and national disability-adjusted life-years (DALYs) for 359 diseases and injuries and healthy life expectancy (HALE) for 195 countries and territories, 1990–2017: A systematic analysis for the global burden of disease study 2017.</div>
+<div><span id="5">5</span> | M. Mitchell, S. Wu, A. Zaldivar, P. Barnes, L. Vasserman, B. Hutchinson, E. Spitzer, I. D. Raji, & T. Gebru, Model cards for model reporting. CoRR, abs/1810.03993 (2018). https://doi.org/10.48550/arXiv.1810.03993.</div>
+<div><span id="6">6</span> | T. Gebru, J. Morgenstern, B. Vecchione, J. W. Vaughan, H. M. Wallach, H. D. III, & K. Crawford, Datasheets for datasets. CoRR, abs/1803.09010 (2018). https://doi.org/10.48550/arXiv.1803.09010.</div>
 
 
 <br>
