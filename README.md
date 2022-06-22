@@ -28,6 +28,44 @@ prevalence and WASH variables, and investigate whether they improve STH prevalen
 <br>
 <br>
 
+## Project Aim
+
+> Understanding the association between STH (Soil Transmitted Helminth) prevalence and WASH (water, sanitation, and hygiene) variables, 
+> and their effect, or otherwise, on STH prevalence prediction.
+
+
+<br>
+<br>
+
+
+## Project Objectives
+
+Hence, the project's objectives are to
+
+> * Understand the association between STH (Soil Transmitted Helminth) prevalence and WASH (water, sanitation, and hygiene) variables
+>
+> * Determine the extent to which WASH variables aid STH prevalence prediction via geostatistical models.
+
+<br>
+<br>
+
+## Project Data
+
+The project will rely on the
+
+* The soil transmitted helminths' data sets of [ESPEN](https://espen.afro.who.int/) (Expanded Special Project for Elimination of Neglected Tropical Diseases) -- 
+  **for** ascariasis, hookworm infection, and trichuriasis examinations and cases data per site.
+
+* The estimated WASH variables of [IHME](https://www.healthdata.org/research-article/mapping-geographic-inequalities-access-drinking-water-and-sanitation-facilities-low) 
+  (Institute for Health Metrics and Evaluation) -- **for** determining site level WASH variables values. The [ESPEN estimates](https://espen.afro.who.int/diseases/wash), which 
+  depend on the IHME methodology, are implementation level estimates.
+
+* The [National Oceanic & Atmospheric Administration (NOAA)](https://www.ncdc.noaa.gov/cdo-web/datasets), [WorldClim](https://www.worldclim.org/data/index.html), 
+  and [DIVA GIS](https://www.diva-gis.org/Data) -- **for** historical geospatial and/or climatic variables values.
+  
+<br>
+<br>
+
 <br>
 <br>
 
