@@ -32,6 +32,8 @@ Soil transmitted helminths (STH) are parasitic intestinal worms that cause intes
 * The second most burdensome [<a href="#@Kyu2018">4</a>], after dengue: The 2017 all-age global burden level is 1920k (1200k to 2980k) disability adjusted life years.
 * The most prevalent [<a href="#@James2018">3</a>].
 
+<br>
+
 Therefore, STH infections are a focus of the World Health Organization (WHO).  Soil transmitted helminths prevention, control, and
 elimination activities depend on knowledge of prevalence [<a href="#@Montresor2011">1</a>].  Prevalence metrics depend on field
 surveys, which are rather expensive to conduct. They are especially expensive when there are no measures to systematically/strategically
