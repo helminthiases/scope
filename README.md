@@ -4,17 +4,17 @@
 
 <br>
 
-# Project Scope
+## Project Scope
 
 <br>
 
 Soil transmitted helminths (STH) are parasitic intestinal worms that cause intestinal nematode infections such as ascariasis, trichuriasis, and hookworm disease.  According to the [2017 global burden of disease metrics](https://www.thelancet.com/journals/lancet/issue/vol392no10159/PIIS0140-6736(18)X0048-8), by The Lancet, soil transmitted helminths infections are
 
-* The second most burdensome [<a href="#@Kyu2018">Kyu 2018</a>], after dengue: The 2017 all-age global burden level is 1920k (1200k to 2980k) disability adjusted life years.
-* The most prevalent [<a href="#@James2018">James 2018</a>].
+* The second most burdensome [<a href="#@Kyu2018">4</a>], after dengue: The 2017 all-age global burden level is 1920k (1200k to 2980k) disability adjusted life years.
+* The most prevalent [<a href="#@James2018">3</a>].
 
 Therefore, STH infections are a focus of the World Health Organization (WHO).  Soil transmitted helminths prevention, control, and
-elimination activities depend on knowledge of prevalence [<a href="#@Montresor2011">Montresor2011</a>].  These prevalence metrics depend on field
+elimination activities depend on knowledge of prevalence [<a href="#@Montresor2011">1</a>].  These prevalence metrics depend on field
 surveys, which are rather expensive to conduct. They are especially expensive when there are no measures to systematically/strategically
 direct field scientists to survey areas.  In the absence of systematic/strategic direction, the field scientists have to survey as wide an area as possible, probably subject to constraints such as finances, accessibility, etc.
 
@@ -34,7 +34,7 @@ Hence, this project aims to develop a model that predicts the STH prevalence of 
 <br>
 <br>
 
-## References
+### References
 
 <br>
 
@@ -91,3 +91,8 @@ Giorgi of [Centre for Health Informatics, Computing, and Statistics](https://chi
 is the university supervisor.
 
 
+<br>
+<br>
+
+<br>
+<br>
