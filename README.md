@@ -1,6 +1,31 @@
 <br>
 
-**Predicting the Prevalence of Soil Transmitted Helminth Infections**
+**The Soil Transmitted Helminths Project**
+
+* [Project Aim](#project-aim)
+
+* [Project Objectives](#project-objectives)
+
+* [Project Data](#project-data)
+
+* [Deliverables](#deliverables)
+  * [Feedback & Approval of Deliveries](#feedback--approval-of-deliveries)
+  * [Brief Progress Updates](#brief-progress-updates)
+
+* [Timeline](#timeline)
+
+* [Out of Scope](#out-of-scope)
+
+* [Project Assumptions](#project-assumptions)
+
+* [Project Constraints](#project-constraints)
+  * [Time Constraints](#time-constraints)
+  * [Budget Constraints](#budget-constraints)
+  * [Quality Constraints](#quality-constraints)
+  * [Equipment Constraints](#equipment-constraints)
+
+* [References](#references)
+
 
 <br>
 
