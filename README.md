@@ -157,6 +157,8 @@ Key assumptions:
 
 ### Project Constraints
 
+<br>
+
 <table style="width: 65%; font-size: 65%; text-align: left;">
     <colgroup>
         <col span="1" style="width: 2.5%;">
