@@ -26,6 +26,13 @@ variables might be critical prognostic factors.  Therefore, the project will foc
 prevalence and WASH variables, and investigate whether they improve STH prevalence prediction.
 
 <br>
+
+The project host is the World Health Organization (WHO).  Ojo, C is the postgraduate student, i.e., the
+project lead.  Professor Antonio Montresor is the World Health Organization supervisor.  Finally, Dr. Emanuele
+Giorgi of [Centre for Health Informatics, Computing, and Statistics](https://chicas.lancaster-university.uk) / Lancaster Medical School
+is the university supervisor.
+
+<br>
 <br>
 
 ### Project Aim
@@ -74,8 +81,6 @@ The deliverables are
 * Thesis Manuscript
 * Datasheet [<a href="#@Gebru2018">1</a>]
 
-<br>
-
 #### Feedback & Approval of deliveries
 
 Professor Montresor shall 
@@ -83,9 +88,6 @@ Professor Montresor shall
 * Address, via email, soil transmitted helminths questions.
 
 * Provide feedback for each set of investigations/results that are summarised & delivered.
-
-
-<br>
 
 #### Brief Progress Updates
 
@@ -155,7 +157,6 @@ Key assumptions:
     </tr>
 </table>
 
-<br>
 
 #### Time Constraints
 
@@ -164,13 +165,11 @@ Key assumptions:
 
 * Future planning may occasionally occur during week days, the time will be recovered during the evenings and/or weekends.
 
-<br>
 
 #### Budget Constraints
 
 The project has no budget, i.e., no budget/payment for personnel or computational resources used; the student bears the cost of conducting the project.
 
-<br>
 
 #### Quality Constraints
 
@@ -179,20 +178,12 @@ The site level data of ESPEN has 3 core issues. Foremost, and per country, many 
 * Each distinct site must have a unique site identifier and distinct coordinate values.
 * records associated with the same site must have the same unique site identifier & coordinate values.
 
-<br>
 
 #### Equipment Constraints
 
 No equipment has been provided for this project.  The project's tasks will be, are, conducted via a personal computer.  However, it
 is quite probable that the computer will stop working any time soon; the computer is quite old, and in recent times bits & pieces
 have stopped working.  Hence, access to a fall-back laptop is critical.
-
-
-<br>
-<br>
-
-<br>
-<br>
 
 <br>
 <br>
@@ -245,17 +236,3 @@ have stopped working.  Hence, access to a fall-back laptop is critical.
 <br>
 <br>
 
-
-Note:
-
-The project host is the World Health Organization (WHO).  Ojo, C is the postgraduate student, i.e., the 
-project lead.  Professor Antonio Montresor is the World Health Organization supervisor.  Finally, Dr. Emanuele 
-Giorgi of [Centre for Health Informatics, Computing, and Statistics](https://chicas.lancaster-university.uk) / Lancaster Medical School 
-is the university supervisor.
-
-
-<br>
-<br>
-
-<br>
-<br>
