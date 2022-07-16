@@ -119,9 +119,6 @@ occur on Friday 1 July 2022; fortnightly thereafter.
 
 ### Timeline
 
-<div style="text-align: center"><img src="images/timeline.png" /></div>
-
-
 &nbsp; | Item 
 :--- | :---
 2022/06/20 - 2022/07/08 | Addressing site level records identification issues (refer to the quality constraints section further below).  The derivation of site level variable values; WASH and geospatial/climatic variables values. 
