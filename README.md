@@ -121,8 +121,8 @@ occur on Friday 1 July 2022; fortnightly thereafter.
 
 &nbsp; | Item 
 :--- | :---
-2022/06/20 - 2022/07/08 | Addressing site level records identification issues (refer to the quality constraints section further below).  The derivation of site level variable values; WASH and geospatial/climatic variables values. 
-2022/07/12 - 2022/07/30 | Exploratory data analysis.<br>Exploration of Bayesian, and otherwise, geospatial binomial logistic models; binomial because prevalence values are proportions.
+2022/06/20 - 2022/07/08 | Addressing site level records identification issues (refer<br> to the quality constraints section further below).  The derivation<br> of site level variable values; WASH and geospatial/climatic<br> variables values. 
+2022/07/12 - 2022/07/30 | &#8226; Exploratory data analysis.<br>&#8226; Exploration of Bayesian, and otherwise, geospatial binomial <br> &nbsp; logistic models.
 2022/08/01 - 2022/08/21 | Final modelling stage; two models at most.<br>Model validation.<br>Model testing.
 2022/08/22 - 2022/09/06 | Manuscript writing.
 2022/09/08 - 2022/09/11 | Finalise modelling & analysis repository and data sheet.
